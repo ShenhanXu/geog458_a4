@@ -16,7 +16,7 @@
 - Zoom Levels: Max Zoom 14; Min Zoom 10
 
 ## Tile 3 Screenshot - Basemap and Data 
-![Map Image](img/mapData.png)
+![Map Image](img/baseData.png)
 
 - Description of Tile: Combination of basemap and data
 - Geographic Area of Focus: Seattle, WA and surrounding municipalities 
